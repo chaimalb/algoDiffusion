@@ -1,0 +1,23 @@
+# Ignorer les fichiers binaires et de compilation
+bin/
+
+# Ignorer les fichiers générés par l'IDE
+.settings/
+.classpath
+.project
+
+# Ignorer les fichiers système
+.DS_Store
+Thumbs.db
+
+# Ignorer les logs
+*.log
+
+# Ignorer les fichiers temporaires
+*.tmp
+*.swp
+*.swo
+
+# Ignorer les fichiers de sauvegarde
+*~
+*.bak
